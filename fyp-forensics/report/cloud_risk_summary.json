@@ -1,0 +1,90 @@
+{
+  "google_drive|bscs24091@gmail.com": {
+    "provider": "google_drive",
+    "owner": "bscs24091@gmail.com",
+    "total_events": 78,
+    "unique_files": 78,
+    "max_burst": 15,
+    "rename_burst": 13,
+    "risk_level": "HIGH",
+    "risk_reasons": [
+      "High burst activity: 15 events within 10 minutes",
+      "High file count: 78 unique files",
+      "Rapid rename activity detected: 13 renames within 5 minutes",
+      "Cloud-wide modification pattern: 78 files affected with 15 modifications in short time"
+    ],
+    "time_range": {
+      "first": "2026-01-23T06:13:59.223000",
+      "last": "2026-03-30T05:15:02.572000"
+    },
+    "burst_windows": [
+      {
+        "start": "2026-03-04T16:16:23",
+        "end": "2026-03-04T16:26:23",
+        "count": 15
+      }
+    ]
+  },
+  "google_drive|syazwinaaleeya27@gmail.com": {
+    "provider": "google_drive",
+    "owner": "syazwinaaleeya27@gmail.com",
+    "total_events": 22,
+    "unique_files": 22,
+    "max_burst": 7,
+    "rename_burst": 7,
+    "risk_level": "MEDIUM",
+    "risk_reasons": [
+      "Medium burst activity: 7 events within 10 minutes",
+      "High file count: 22 unique files"
+    ],
+    "time_range": {
+      "first": "2026-02-16T14:16:58.410000",
+      "last": "2026-02-17T11:20:16.131000"
+    },
+    "burst_windows": [
+      {
+        "start": "2026-02-16T14:40:03.351000",
+        "end": "2026-02-16T14:50:03.351000",
+        "count": 7
+      },
+      {
+        "start": "2026-02-16T23:48:48.219000",
+        "end": "2026-02-16T23:58:48.219000",
+        "count": 7
+      }
+    ]
+  },
+  "onedrive|unknown": {
+    "provider": "onedrive",
+    "owner": "unknown",
+    "total_events": 9,
+    "unique_files": 9,
+    "max_burst": 1,
+    "rename_burst": 1,
+    "risk_level": "LOW",
+    "risk_reasons": [
+      "No significant indicators"
+    ],
+    "time_range": {
+      "first": "2018-04-05T14:19:20",
+      "last": "2025-04-29T15:40:12"
+    },
+    "burst_windows": [
+      {
+        "start": "2018-04-05T14:19:20",
+        "end": "2018-04-05T14:29:20",
+        "count": 1
+      },
+      {
+        "start": "2018-07-11T11:32:49",
+        "end": "2018-07-11T11:42:49",
+        "count": 1
+      },
+      {
+        "start": "2018-08-05T15:09:49",
+        "end": "2018-08-05T15:19:49",
+        "count": 1
+      }
+    ]
+  }
+}

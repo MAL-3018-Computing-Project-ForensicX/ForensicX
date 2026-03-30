@@ -1,0 +1,27 @@
+{
+  "timestamp": 1774810430.6890569,
+  "directory": "/home/fyp25-26/test",
+  "files": [
+    {
+      "path": "/home/fyp25-26/test/pipeline.log",
+      "hash": "90d9e053f23941ae4fc0e22582f2ad5c5d685719df37f6fb13339afda16eb5d8",
+      "entropy": 5.3581,
+      "size": 154870,
+      "mtime": 1774809972.5407333
+    },
+    {
+      "path": "/home/fyp25-26/test/manifest.json",
+      "hash": "bfe634093dc8bdd4713ae65f39de7cf60702930bc7f4773cce0fede5d92db519",
+      "entropy": 4.8817,
+      "size": 941,
+      "mtime": 1774809972.5407333
+    },
+    {
+      "path": "/home/fyp25-26/test/report_builder.py",
+      "hash": "dfc90ad2ffc50807f5ef746a1da2ad2a5aac7b299c2f6f82bcb7158ba428ba89",
+      "entropy": 5.1078,
+      "size": 41213,
+      "mtime": 1772987413.7342608
+    }
+  ]
+}

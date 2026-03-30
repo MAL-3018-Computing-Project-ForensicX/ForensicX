@@ -1,0 +1,433 @@
+{
+  "generated": "2026-03-29T18:46:12.538133Z",
+  "artifacts": [
+    {
+      "path": "/home/fyp25-26/fyp-forensics/report/correlation.json",
+      "role": "correlation_output",
+      "sha256": "918ec90b88b0a9507fd37cf1a6a3f5b34eb1f3c8817195e133a71c5c331e4357",
+      "size": 143279,
+      "mtime": "2026-03-29T18:46:12.535733Z",
+      "added": "2026-03-29T18:46:12.538901Z",
+      "extra": {}
+    },
+    {
+      "path": "/home/fyp25-26/fyp-forensics/report/correlation.txt",
+      "role": "correlation_report",
+      "sha256": "6b5217cbb60f95c7f9ac26c4d7ef5dfa7a8db71550303c8517ce7b3cb5aa7bbb",
+      "size": 44475,
+      "mtime": "2026-03-29T18:46:12.536733Z",
+      "added": "2026-03-29T18:46:12.540036Z",
+      "extra": {}
+    },
+    {
+      "path": "/home/fyp25-26/fyp-forensics/report/correlation.json",
+      "role": "correlation_output",
+      "sha256": "01f19096b9b2b77779375a65539aabc27bf769a4766ca0d33b91b5bc18f5c6be",
+      "size": 7425276,
+      "mtime": "2026-03-29T19:07:27.368537Z",
+      "added": "2026-03-29T19:07:27.382265Z",
+      "extra": {}
+    },
+    {
+      "path": "/home/fyp25-26/fyp-forensics/report/correlation.txt",
+      "role": "correlation_report",
+      "sha256": "aa04745b710f62b285eb22a9bcae7a5e5cb0f55e0a80b731e74b99b3a6c675a6",
+      "size": 597114,
+      "mtime": "2026-03-29T19:07:27.373537Z",
+      "added": "2026-03-29T19:07:27.384155Z",
+      "extra": {}
+    },
+    {
+      "path": "/home/fyp25-26/fyp-forensics/report/correlation.json",
+      "role": "correlation_output",
+      "sha256": "5864933816a0bcf29418412fc4b1cdb63cdaedd4a972323f403fb1c71ab80e28",
+      "size": 8051835,
+      "mtime": "2026-03-30T08:36:18.755828Z",
+      "added": "2026-03-30T08:36:20.930273Z",
+      "extra": {}
+    },
+    {
+      "path": "/home/fyp25-26/fyp-forensics/report/correlation.txt",
+      "role": "correlation_report",
+      "sha256": "bea3fd45cb12622f8a12155d775a9065e1b444398e427beb80937fd531461745",
+      "size": 608368,
+      "mtime": "2026-03-30T08:36:18.783829Z",
+      "added": "2026-03-30T08:36:20.932350Z",
+      "extra": {}
+    },
+    {
+      "path": "/home/fyp25-26/fyp-forensics/report/endpoint_risk_summary.json",
+      "role": "endpoint_behavior",
+      "sha256": "e133cbdf9631fe5b23e3e3932c1b5d9decfe364433f84ecfcc37bfba584744ce",
+      "size": 131592,
+      "mtime": "2026-03-30T08:36:18.424819Z",
+      "added": "2026-03-30T08:36:20.933454Z",
+      "extra": {}
+    },
+    {
+      "path": "/home/fyp25-26/fyp-forensics/report/cloud_risk_summary.json",
+      "role": "cloud_behavior",
+      "sha256": "723309bb9266cd161a8f3b66e67e9adbdc4db23d01597ae08d374587d56a7da8",
+      "size": 2288,
+      "mtime": "2026-03-30T08:36:18.247815Z",
+      "added": "2026-03-30T08:36:20.934228Z",
+      "extra": {}
+    },
+    {
+      "path": "/home/fyp25-26/fyp-forensics/report/correlation.json",
+      "role": "correlation_output",
+      "sha256": "daba860dd1183cc40fab59d7d69603485186653aa55c6d97824314ac781b451b",
+      "size": 8051835,
+      "mtime": "2026-03-30T08:39:08.100646Z",
+      "added": "2026-03-30T08:39:09.734491Z",
+      "extra": {}
+    },
+    {
+      "path": "/home/fyp25-26/fyp-forensics/report/correlation.txt",
+      "role": "correlation_report",
+      "sha256": "bea3fd45cb12622f8a12155d775a9065e1b444398e427beb80937fd531461745",
+      "size": 608368,
+      "mtime": "2026-03-30T08:39:08.123646Z",
+      "added": "2026-03-30T08:39:09.736489Z",
+      "extra": {}
+    },
+    {
+      "path": "/home/fyp25-26/fyp-forensics/report/endpoint_risk_summary.json",
+      "role": "endpoint_behavior",
+      "sha256": "421aa4d1513047c7640caf7a54f8301729589b5ac28830855d4021538eac9a4f",
+      "size": 131592,
+      "mtime": "2026-03-30T08:39:07.840640Z",
+      "added": "2026-03-30T08:39:09.737738Z",
+      "extra": {}
+    },
+    {
+      "path": "/home/fyp25-26/fyp-forensics/report/cloud_risk_summary.json",
+      "role": "cloud_behavior",
+      "sha256": "723309bb9266cd161a8f3b66e67e9adbdc4db23d01597ae08d374587d56a7da8",
+      "size": 2288,
+      "mtime": "2026-03-30T08:39:07.771639Z",
+      "added": "2026-03-30T08:39:09.739015Z",
+      "extra": {}
+    },
+    {
+      "path": "/home/fyp25-26/fyp-forensics/report/correlation.json",
+      "role": "correlation_output",
+      "sha256": "effd9ec31a0ae472f1d725affb1ae3ce5c3a71ba674b4133a915998e63923f11",
+      "size": 8018239,
+      "mtime": "2026-03-30T09:46:06.006967Z",
+      "added": "2026-03-30T09:46:06.049265Z",
+      "extra": {}
+    },
+    {
+      "path": "/home/fyp25-26/fyp-forensics/report/correlation.txt",
+      "role": "correlation_report",
+      "sha256": "945d65230fa0505c7b2a79ebec78cd98b6f6b1ae0924d70869bb05d442fd3177",
+      "size": 597133,
+      "mtime": "2026-03-30T09:46:06.033966Z",
+      "added": "2026-03-30T09:46:06.054243Z",
+      "extra": {}
+    },
+    {
+      "path": "/home/fyp25-26/fyp-forensics/report/endpoint_risk_summary.json",
+      "role": "endpoint_behavior",
+      "sha256": "620482579eeff6d4a7a955125f96b5928bc71f8763519ccc20e5f41f28890624",
+      "size": 125494,
+      "mtime": "2026-03-30T09:46:05.771968Z",
+      "added": "2026-03-30T09:46:06.055612Z",
+      "extra": {}
+    },
+    {
+      "path": "/home/fyp25-26/fyp-forensics/report/cloud_risk_summary.json",
+      "role": "cloud_behavior",
+      "sha256": "723309bb9266cd161a8f3b66e67e9adbdc4db23d01597ae08d374587d56a7da8",
+      "size": 2288,
+      "mtime": "2026-03-30T08:39:07.771639Z",
+      "added": "2026-03-30T09:46:06.056959Z",
+      "extra": {}
+    },
+    {
+      "path": "/home/fyp25-26/fyp-forensics/report/correlation.json",
+      "role": "correlation_output",
+      "sha256": "e74e9e018c0699ede2098f370d1081f461a6895cdfaa9aa61e3169550b830c32",
+      "size": 8051672,
+      "mtime": "2026-03-30T09:48:09.073432Z",
+      "added": "2026-03-30T09:48:10.622807Z",
+      "extra": {}
+    },
+    {
+      "path": "/home/fyp25-26/fyp-forensics/report/correlation.txt",
+      "role": "correlation_report",
+      "sha256": "7911fc20b49ec43cdee0f4110d8df8e556a0824e8303a499fcbf89b7b89f2ddf",
+      "size": 607317,
+      "mtime": "2026-03-30T09:48:09.088432Z",
+      "added": "2026-03-30T09:48:10.624682Z",
+      "extra": {}
+    },
+    {
+      "path": "/home/fyp25-26/fyp-forensics/report/endpoint_risk_summary.json",
+      "role": "endpoint_behavior",
+      "sha256": "ee3a3ef807d7ccb97a2feead8c18195876823236622c2f6f617b803dd57f52f4",
+      "size": 129183,
+      "mtime": "2026-03-30T09:48:08.843432Z",
+      "added": "2026-03-30T09:48:10.625783Z",
+      "extra": {}
+    },
+    {
+      "path": "/home/fyp25-26/fyp-forensics/report/cloud_risk_summary.json",
+      "role": "cloud_behavior",
+      "sha256": "723309bb9266cd161a8f3b66e67e9adbdc4db23d01597ae08d374587d56a7da8",
+      "size": 2288,
+      "mtime": "2026-03-30T09:48:08.773433Z",
+      "added": "2026-03-30T09:48:10.627116Z",
+      "extra": {}
+    },
+    {
+      "path": "/home/fyp25-26/fyp-forensics/report/correlation.json",
+      "role": "correlation_output",
+      "sha256": "4489f0da0440280273c69a87e6d0a2df2bd3056c818974d38830dfc1cab1198e",
+      "size": 22390445,
+      "mtime": "2026-03-30T09:53:27.801508Z",
+      "added": "2026-03-30T09:53:29.885560Z",
+      "extra": {}
+    },
+    {
+      "path": "/home/fyp25-26/fyp-forensics/report/correlation.txt",
+      "role": "correlation_report",
+      "sha256": "004526c676dffe62507c364fd3e68c05db1c2e04a208983c77c26db3729ea504",
+      "size": 2411979,
+      "mtime": "2026-03-30T09:53:27.857508Z",
+      "added": "2026-03-30T09:53:29.888962Z",
+      "extra": {}
+    },
+    {
+      "path": "/home/fyp25-26/fyp-forensics/report/endpoint_risk_summary.json",
+      "role": "endpoint_behavior",
+      "sha256": "0a80ed1b1c89c7d06f16216e2e233a3f12806abe83edd251c1a589d2b4a4a6c3",
+      "size": 935163,
+      "mtime": "2026-03-30T09:53:27.032510Z",
+      "added": "2026-03-30T09:53:29.890783Z",
+      "extra": {}
+    },
+    {
+      "path": "/home/fyp25-26/fyp-forensics/report/cloud_risk_summary.json",
+      "role": "cloud_behavior",
+      "sha256": "723309bb9266cd161a8f3b66e67e9adbdc4db23d01597ae08d374587d56a7da8",
+      "size": 2288,
+      "mtime": "2026-03-30T09:53:26.640511Z",
+      "added": "2026-03-30T09:53:29.892071Z",
+      "extra": {}
+    },
+    {
+      "path": "/home/fyp25-26/fyp-forensics/report/correlation.json",
+      "role": "correlation_output",
+      "sha256": "2b40b16763379b1c2626176251fa459ffd5000b228b18fbd336f1a6dd6445a69",
+      "size": 8051672,
+      "mtime": "2026-03-30T12:51:53.310074Z",
+      "added": "2026-03-30T12:51:54.910707Z",
+      "extra": {}
+    },
+    {
+      "path": "/home/fyp25-26/fyp-forensics/report/correlation.txt",
+      "role": "correlation_report",
+      "sha256": "7911fc20b49ec43cdee0f4110d8df8e556a0824e8303a499fcbf89b7b89f2ddf",
+      "size": 607317,
+      "mtime": "2026-03-30T12:51:53.325074Z",
+      "added": "2026-03-30T12:51:54.913101Z",
+      "extra": {}
+    },
+    {
+      "path": "/home/fyp25-26/fyp-forensics/report/endpoint_risk_summary.json",
+      "role": "endpoint_behavior",
+      "sha256": "8fdeba42b6d871c2e12168b5e219a9079522172925689d4cd80250247aef3baa",
+      "size": 129183,
+      "mtime": "2026-03-30T12:51:53.065074Z",
+      "added": "2026-03-30T12:51:54.914645Z",
+      "extra": {}
+    },
+    {
+      "path": "/home/fyp25-26/fyp-forensics/report/cloud_risk_summary.json",
+      "role": "cloud_behavior",
+      "sha256": "723309bb9266cd161a8f3b66e67e9adbdc4db23d01597ae08d374587d56a7da8",
+      "size": 2288,
+      "mtime": "2026-03-30T12:51:52.989074Z",
+      "added": "2026-03-30T12:51:54.915869Z",
+      "extra": {}
+    },
+    {
+      "path": "/home/fyp25-26/fyp-forensics/report/correlation.json",
+      "role": "correlation_output",
+      "sha256": "3dca7e539c5c05b3fe6d5887fe2d8759c1d6148e1ed27df6778d55c5e796ed5b",
+      "size": 8051879,
+      "mtime": "2026-03-30T13:33:01.451253Z",
+      "added": "2026-03-30T13:33:02.891863Z",
+      "extra": {}
+    },
+    {
+      "path": "/home/fyp25-26/fyp-forensics/report/correlation.txt",
+      "role": "correlation_report",
+      "sha256": "7911fc20b49ec43cdee0f4110d8df8e556a0824e8303a499fcbf89b7b89f2ddf",
+      "size": 607317,
+      "mtime": "2026-03-30T13:33:01.468253Z",
+      "added": "2026-03-30T13:33:02.894434Z",
+      "extra": {}
+    },
+    {
+      "path": "/home/fyp25-26/fyp-forensics/report/endpoint_risk_summary.json",
+      "role": "endpoint_behavior",
+      "sha256": "fb5e0bb9e9b85ee81d424bf03849193ced2bf0f3e989ac76d59f232ba1125b7a",
+      "size": 129183,
+      "mtime": "2026-03-30T13:33:01.194253Z",
+      "added": "2026-03-30T13:33:02.895780Z",
+      "extra": {}
+    },
+    {
+      "path": "/home/fyp25-26/fyp-forensics/report/cloud_risk_summary.json",
+      "role": "cloud_behavior",
+      "sha256": "723309bb9266cd161a8f3b66e67e9adbdc4db23d01597ae08d374587d56a7da8",
+      "size": 2288,
+      "mtime": "2026-03-30T13:33:01.059253Z",
+      "added": "2026-03-30T13:33:02.896850Z",
+      "extra": {}
+    },
+    {
+      "path": "/home/fyp25-26/fyp-forensics/report/correlation.json",
+      "role": "correlation_output",
+      "sha256": "9900ae07010bc6a05b288e527fa769868d61554889c7da4c33219ade9f382c4b",
+      "size": 32755640,
+      "mtime": "2026-03-30T13:53:43.561390Z",
+      "added": "2026-03-30T13:53:46.722265Z",
+      "extra": {}
+    },
+    {
+      "path": "/home/fyp25-26/fyp-forensics/report/correlation.txt",
+      "role": "correlation_report",
+      "sha256": "ecab3bc8470a49578f07ee18d0c03a3859b61b9dffc048381f05c9240ecd59af",
+      "size": 10483200,
+      "mtime": "2026-03-30T13:53:43.711389Z",
+      "added": "2026-03-30T13:53:46.736827Z",
+      "extra": {}
+    },
+    {
+      "path": "/home/fyp25-26/fyp-forensics/report/endpoint_risk_summary.json",
+      "role": "endpoint_behavior",
+      "sha256": "920c4e757ee070ebadb199fa13171ee1e312c04c3b203bafa098e3ee1e9b2c1a",
+      "size": 6408590,
+      "mtime": "2026-03-30T13:53:42.288399Z",
+      "added": "2026-03-30T13:53:46.746562Z",
+      "extra": {}
+    },
+    {
+      "path": "/home/fyp25-26/fyp-forensics/report/cloud_risk_summary.json",
+      "role": "cloud_behavior",
+      "sha256": "723309bb9266cd161a8f3b66e67e9adbdc4db23d01597ae08d374587d56a7da8",
+      "size": 2288,
+      "mtime": "2026-03-30T13:53:41.155407Z",
+      "added": "2026-03-30T13:53:46.748100Z",
+      "extra": {}
+    },
+    {
+      "path": "/home/fyp25-26/fyp-forensics/report/correlation.json",
+      "role": "correlation_output",
+      "sha256": "b1eccc77592cf309301d31459bca867d0eab0136ec5b6dd02b4ef0ab2d275522",
+      "size": 32755640,
+      "mtime": "2026-03-30T14:13:54.348824Z",
+      "added": "2026-03-30T14:13:57.314859Z",
+      "extra": {}
+    },
+    {
+      "path": "/home/fyp25-26/fyp-forensics/report/correlation.txt",
+      "role": "correlation_report",
+      "sha256": "ecab3bc8470a49578f07ee18d0c03a3859b61b9dffc048381f05c9240ecd59af",
+      "size": 10483200,
+      "mtime": "2026-03-30T14:13:54.492824Z",
+      "added": "2026-03-30T14:13:57.328380Z",
+      "extra": {}
+    },
+    {
+      "path": "/home/fyp25-26/fyp-forensics/report/endpoint_risk_summary.json",
+      "role": "endpoint_behavior",
+      "sha256": "f10c2c6fb355684597d435b9a7b8052d00462eb758600ffbb384b6e7e5442786",
+      "size": 6408590,
+      "mtime": "2026-03-30T14:13:53.053827Z",
+      "added": "2026-03-30T14:13:57.338035Z",
+      "extra": {}
+    },
+    {
+      "path": "/home/fyp25-26/fyp-forensics/report/cloud_risk_summary.json",
+      "role": "cloud_behavior",
+      "sha256": "723309bb9266cd161a8f3b66e67e9adbdc4db23d01597ae08d374587d56a7da8",
+      "size": 2288,
+      "mtime": "2026-03-30T14:13:51.941829Z",
+      "added": "2026-03-30T14:13:57.340431Z",
+      "extra": {}
+    }
+  ],
+  "audit": [
+    {
+      "time": "2026-03-29T18:46:12.540769Z",
+      "actor": "forensic_pipeline",
+      "action": "analysis_complete",
+      "note": "Completed at 2026-03-30T02:46:12.540703"
+    },
+    {
+      "time": "2026-03-29T19:07:27.385002Z",
+      "actor": "forensic_pipeline",
+      "action": "analysis_complete",
+      "note": "Completed at 2026-03-30T03:07:27.384894"
+    },
+    {
+      "time": "2026-03-30T08:36:20.935137Z",
+      "actor": "forensic_pipeline",
+      "action": "analysis_complete",
+      "note": "Completed at 2026-03-30T16:36:20.935006"
+    },
+    {
+      "time": "2026-03-30T08:39:09.739981Z",
+      "actor": "forensic_pipeline",
+      "action": "analysis_complete",
+      "note": "Completed at 2026-03-30T16:39:09.739841"
+    },
+    {
+      "time": "2026-03-30T09:46:06.057810Z",
+      "actor": "forensic_pipeline",
+      "action": "analysis_complete",
+      "note": "Completed at 2026-03-30T17:46:06.057719"
+    },
+    {
+      "time": "2026-03-30T09:48:10.630033Z",
+      "actor": "forensic_pipeline",
+      "action": "analysis_complete",
+      "note": "Completed at 2026-03-30T17:48:10.629851"
+    },
+    {
+      "time": "2026-03-30T09:53:29.893296Z",
+      "actor": "forensic_pipeline",
+      "action": "analysis_complete",
+      "note": "Completed at 2026-03-30T17:53:29.893174"
+    },
+    {
+      "time": "2026-03-30T12:51:54.916431Z",
+      "actor": "forensic_pipeline",
+      "action": "analysis_complete",
+      "note": "Completed at 2026-03-30T20:51:54.916342"
+    },
+    {
+      "time": "2026-03-30T13:33:02.897807Z",
+      "actor": "forensic_pipeline",
+      "action": "analysis_complete",
+      "note": "Completed at 2026-03-30T21:33:02.897695"
+    },
+    {
+      "time": "2026-03-30T13:53:46.749347Z",
+      "actor": "forensic_pipeline",
+      "action": "analysis_complete",
+      "note": "Completed at 2026-03-30T21:53:46.749205"
+    },
+    {
+      "time": "2026-03-30T14:13:57.341603Z",
+      "actor": "forensic_pipeline",
+      "action": "analysis_complete",
+      "note": "Completed at 2026-03-30T22:13:57.341409"
+    }
+  ]
+}

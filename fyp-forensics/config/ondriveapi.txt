@@ -1,0 +1,7 @@
+OneDrive
+Application (client) ID
+0b363eb7-8b56-411c-b88f-dc1dc89b5642
+Object ID
+216f244d-97b3-4835-96a3-b0a5af852a16
+Directory (tenant) ID
+9b760590-09b3-49f3-a33e-22f099e8d858

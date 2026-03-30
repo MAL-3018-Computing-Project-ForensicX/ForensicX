@@ -1,0 +1,15 @@
+{
+  "hashes": [
+    "44d88612fea8a8f36de82e1278abb02f", 
+    "6f5902ac237024bdd0c176cb93063dc4"
+  ],
+  "domains": [
+    "malicious.com",
+    "bad.example.net"
+  ],
+  "ips": [
+    "192.168.220.2",
+    "10.0.0.66"
+  ]
+}
+

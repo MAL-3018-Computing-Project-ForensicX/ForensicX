@@ -1,0 +1,116 @@
+├── config
+│   ├── config.json
+│   ├── google_drive_credentials.json
+│   ├── ioc.json
+│   └── ondriveapi.txt
+├── dashboards
+│   ├── dashboard.py
+│   ├── libs
+│   │   ├── data_loader.py
+│   │   └── __pycache__
+│   │       └── data_loader.cpython-312.pyc
+│   └── pages
+│       ├── 1_Endpoint_Behavior.py
+│       ├── Cloud_Attack_Chain.py
+│       ├── Cloud_Risk_Analysis.py
+│       ├── Endpoint_Risk_Summary.py
+│       ├── Event_Timeline.py
+│       ├── EVTX_Parser.py
+│       ├── IOC_Hits.py
+│       ├── Memory_Analysis.py
+│       ├── Process_Explorer.py
+│       ├── Reports.py
+│       ├── Snapshot_Changes.py
+│       └── Snapshot_Manager.py
+├── data
+│   ├── cloud
+│   │   └── cloud_events.json
+│   ├── logs
+│   │   ├── memory.raw.sha256
+│   │   ├── sysmon_after.evtx
+│   │   ├── sysmon_after.json
+│   │   ├── sysmon_logs.evtx
+│   │   ├── sysmon_logs.json
+│   │   └── sysmon_parsed.json
+│   └── memory_dumps
+│       ├── memory2.raw
+│       └── memory_dump.sha256.txt
+├── modules
+│   ├── cloud
+│   │   ├── cloud_behavior.py
+│   │   ├── cloud_collect.py
+│   │   ├── cloud_endpoint_correlate.py
+│   │   ├── cloud_normalize.py
+│   │   ├── google_drive.py
+│   │   ├── _init_.py
+│   │   ├── normalize.py
+│   │   ├── onedrive.py
+│   │   └── __pycache__
+│   │       ├── cloud_behavior.cpython-312.pyc
+│   │       ├── cloud_collect.cpython-312.pyc
+│   │       ├── cloud_endpoint_correlate.cpython-312.pyc
+│   │       ├── cloud_normalize.cpython-312.pyc
+│   │       ├── google_drive.cpython-312.pyc
+│   │       └── onedrive.cpython-312.pyc
+│   ├── correlate.py
+│   ├── detection
+│   │   ├── behavior.py
+│   │   ├── cloud_behavior.py
+│   │   └── __pycache__
+│   │       ├── behavior.cpython-312.pyc
+│   │       └── cloud_behavior.cpython-312.pyc
+│   ├── forensics
+│   │   ├── evidence.py
+│   │   └── __pycache__
+│   │       └── evidence.cpython-312.pyc
+│   ├── orchestrator.py
+│   ├── parse_evtx.py
+│   ├── __pycache__
+│   │   ├── correlate.cpython-312.pyc
+│   │   ├── orchestrator.cpython-312.pyc
+│   │   └── parse_evtx.cpython-312.pyc
+│   ├── report
+│   │   ├── __init__.py
+│   │   └── report_builder.py
+│   ├── tests
+│   │   └── test_behavior.py
+│   ├── threat
+│   │   └── enrich.py
+│   └── utils
+│       ├── __pycache__
+│       │   └── time_utils.cpython-312.pyc
+│       └── time_utils.py
+├── report
+│   ├── cloud_endpoint_correlations.json
+│   ├── cloud_risk_summary.json
+│   ├── cmdline.txt
+│   ├── combined_memory_report.txt
+│   ├── correlation.json
+│   ├── correlation.pdf
+│   ├── correlation.txt
+│   ├── dlllist.txt
+│   ├── endpoint_risk_summary.json
+│   ├── filescan.txt
+│   ├── forensic_report.json
+│   ├── handles.txt
+│   ├── hivelist.txt
+│   ├── malfind.txt
+│   ├── manifest.json
+│   ├── netscan.txt
+│   ├── netstat.txt
+│   ├── pipeline.log
+│   ├── pslist.txt
+│   ├── psscan.txt
+│   ├── __pycache__
+│   │   └── report_builder.cpython-312.pyc
+│   ├── report_builder.py
+│   └── svcscan.txt
+├── requirements.txt
+├── rules
+│   └── ransomware_rules.yar
+├── scripts
+│   ├── compare.py
+│   └── snapshots.py
+└── snapshots
+    ├── after.json
+    └── before.json

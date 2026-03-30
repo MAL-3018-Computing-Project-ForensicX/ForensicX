@@ -1,0 +1,25 @@
+{
+  "virus_total_api_key": "YOUR_VIRUSTOTAL_KEY_OR_EMPTY",
+  "abuseipdb_api_key": "YOUR_ABUSEIPDB_KEY_OR_EMPTY",
+  "use_api": true,
+  "report_output_dir": "report",
+  "gpg_sign": false,
+  "gpg_key_fingerprint": "",
+  "google_drive": {
+    "enabled": true,
+    "credentials_file": "config/google_drive_credentials.json",
+    "scopes": [
+      "https://www.googleapis.com/auth/drive.metadata.readonly"
+    ]
+  },
+  "onedrive": {
+    "enabled": true,
+    "client_id": "0b363eb7-8b56-411c-b88f-dc1dc89b5642",
+    "tenant_id": "common",
+    "scopes": [
+      "Files.Read.All",
+      "Sites.Read.All",
+      "User.Read"
+    ]
+  }
+}
